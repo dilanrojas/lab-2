@@ -1,7 +1,7 @@
-# Laboratorio I || Desarrollo de Software II
+# Laboratorio I | Desarrollo de Software II
 
 Estructuras de datos y algoritmos
 
 ## Integrantes
   - Dilan Rojas Vargas (C5J271)
-  - Freddy Baldizon Paladino 1(C4L364)
+  - Freddy Baldizon Paladino (C4L364)
